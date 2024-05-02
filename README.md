@@ -20,7 +20,9 @@ Find and Display Student Details: Search for a student by their student number a
 List All Students: View all students currently stored in the system.
 Students Born in a Specific Year: Filter and display students based on their year of birth.
 
-Save and Load from File: Persist student data to a file and load it back into the system.## Setup and Execution
+Save and Load from File: Persist student data to a file and load it back into the system.
+
+## Setup and Execution
 
 Prerequisites
 
