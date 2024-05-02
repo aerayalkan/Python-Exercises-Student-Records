@@ -80,7 +80,8 @@ Follow the prompts to enter the required information or make selections based on
 
 Contributions are welcome. If you have suggestions to improve this system, please fork the repository and submit a pull request.
 
-#License
+
+# License
 
 
 This README provides comprehensive details about the Python student record management system, guiding users on how to setup, run, and use the program effectively.
